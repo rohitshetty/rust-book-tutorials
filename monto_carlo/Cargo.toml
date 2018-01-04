@@ -1,0 +1,7 @@
+[package]
+name = "monto_carlo"
+version = "0.1.0"
+authors = ["Rohit <rohitfoss00@gmail.com>"]
+
+[dependencies]
+rand = "0.3"
